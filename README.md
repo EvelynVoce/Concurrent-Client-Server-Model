@@ -11,7 +11,7 @@ A farmer wishes to improve the management of his business through the use of tec
 
 ### Running the project:
 You should first clone the repository:
-`git clone https://github.com/Hannah-Ashna/Systems-Software.git`
+'git clone https://github.com/JamieVoce/Concurrent-Client-Server-Model.git'
 
 Our project makes use of an external library to draw our charts. Hence, you'll need to setup [XCharts](https://knowm.org/open-source/XChart/) using the [jar](https://github.com/Hannah-Ashna/Systems-Software/tree/main/xchart) file available in this repository.  
 Once everything is setup within your IDE (We've used NetBeans), you'll need to run Server.java followed by as many instances of the WeatherStations.java and User.java.
